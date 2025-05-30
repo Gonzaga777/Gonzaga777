@@ -13,7 +13,7 @@ Estou em constante busca por aprimorar minhas habilidades, aprender novas tecnol
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/a99d44d3822f3ab670f0071692e518c0da627c1f6788b39d3c22fd8fefb4b572/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" height="250px" data-canonical-src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🚀 Tecnologias e Conhecimentos
 
