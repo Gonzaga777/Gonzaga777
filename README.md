@@ -12,6 +12,9 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
   <li>🚀 Sempre aprendendo e evoluindo em tecnologias, frameworks e boas práticas.</li>
   <li>🛠️ Crio soluções eficientes, escaláveis e de alto impacto.</li>
   <li>💬 Gosto de compartilhar conhecimento e colaborar em projetos open source.</li>
+  <li>Comunicativo, colaborativo e apaixonado por resolver problemas complexos. Sempre busco evoluir, aprender e entregar resultados de alto impacto!</li>
+
+
 </ul>
 
 ---
@@ -104,6 +107,11 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
 <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" height="25" alt="Scrum" />
 <img src="https://img.shields.io/badge/Kanban-0088CE?style=for-the-badge&logo=kanbanize&logoColor=white" height="25" alt="Kanban" />
 
+
+### 📜 Certificações & Cursos
+- Java Spring Boot - [Udemy]
+- ReactJS Avançado - [Udemy]
+- SQL e Banco de Dados - [Udemy]
 ## ✉️ Contato
 
 <a href="mailto:gabrielgonzaga.dev@gmail.com" target="_blank">
