@@ -92,7 +92,7 @@ Estou em constante busca por aprimorar minhas habilidades, aprender novas tecnol
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gonzaga777/Gonzaga777/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/Gonzaga777/Gonzaga777/output/ocean.gif" alt="Snake animation gif" />
 
 ---
 
