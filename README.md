@@ -12,7 +12,7 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
   <li>🚀 Sempre aprendendo e evoluindo em tecnologias, frameworks e boas práticas.</li>
   <li>🛠️ Crio soluções eficientes, escaláveis e de alto impacto.</li>
   <li>💬 Gosto de compartilhar conhecimento e colaborar em projetos open source.</li>
-  <li>Comunicativo, colaborativo e apaixonado por resolver problemas complexos. Sempre busco evoluir, aprender e entregar resultados de alto impacto!</li>
+  <li>💡Comunicativo, colaborativo e apaixonado por resolver problemas complexos. Sempre busco evoluir, aprender e entregar resultados de alto impacto!</li>
 
 
 </ul>
