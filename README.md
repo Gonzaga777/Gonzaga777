@@ -28,32 +28,43 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
 
 ## 🚀 Tecnologias
 
-**Backend**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" title="Spring Boot"/>
+### **Backend**
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" title="Java" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="Spring Boot" title="Spring Boot" style="margin-right: 25px; margin-bottom: 15px;"/>
+</div>
 
-**Frontend**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="Angular" title="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" title="Bootstrap"/>
+### **Frontend**
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" title="React" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="55" alt="Angular" title="Angular" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" alt="AngularJS" title="AngularJS" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5" title="HTML5" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3" title="CSS3" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" title="JavaScript" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="Bootstrap" title="Bootstrap" style="margin-right: 25px; margin-bottom: 15px;"/>
+</div>
 
-**Banco de Dados**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" title="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" title="SQL Server"/>
+### **Banco de Dados**
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL" title="MySQL" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" title="PostgreSQL" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55" alt="SQLite" title="SQLite" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="SQL Server" title="SQL Server" style="margin-right: 25px; margin-bottom: 15px;"/>
+</div>
 
-**Mensageria**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="RabbitMQ" title="RabbitMQ"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="30" alt="ActiveMQ" title="ActiveMQ"/>
+### **Mensageria**
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="55" alt="RabbitMQ" title="RabbitMQ" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="55" alt="ActiveMQ" title="ActiveMQ" style="margin-right: 25px; margin-bottom: 15px;"/>
+</div>
 
-**Versionamento**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" title="GitLab"/>
+### **Versionamento**
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" title="Git" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" title="GitHub" style="margin-right: 25px; margin-bottom: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="55" alt="GitLab" title="GitLab" style="margin-right: 25px; margin-bottom: 15px;"/>
+</div>
 
 ### 📜 Certificações & Cursos
 - Java Spring Boot - [Udemy]
