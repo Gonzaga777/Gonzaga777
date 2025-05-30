@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá! Eu sou Gabriel Gonzaga.<br/>Full Stack Developer do Brasil 🇧🇷</h2>
+<h2 align="left">👋 Olá! Eu sou Gabriel Gonzaga.<br/>Full Stack Developer do Brasil 🇧🇷</h2>
 
 💡 Sou apaixonado por tecnologia, movido por desafios e sempre buscando novas soluções!  
 Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações **Java** (backend) e **React** (frontend).
